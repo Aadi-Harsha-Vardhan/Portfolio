@@ -1,0 +1,13 @@
+{
+  "name": "harsha-data-analyst-portfolio",
+  "version": "1.0.0",
+  "description": "Modern glassmorphism portfolio for an entry-level Data Analyst",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
